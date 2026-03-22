@@ -1,5 +1,6 @@
 🚀 Dia a Dia de um QA
 🧪 Projeto Prático – Bootcamp Java & QA (DIO)
+
 📌 Sobre o Projeto
 
 Este projeto apresenta, de forma prática, o fluxo de trabalho de um profissional de Quality Assurance (QA) aplicado a uma aplicação web de e-commerce (Swag Labs Shopping).
