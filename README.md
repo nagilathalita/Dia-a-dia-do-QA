@@ -36,6 +36,7 @@ Validação final
 Jira (gerenciamento de tarefas)
 GitHub (documentação)
 Conceitos de testes manuais e BDD
+
 🚀 Conclusão
 
 Este projeto permitiu consolidar conhecimentos fundamentais da área de QA, reforçando a importância da qualidade no desenvolvimento de software e preparando para desafios reais no mercado de tecnologia.
